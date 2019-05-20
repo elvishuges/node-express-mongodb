@@ -1,0 +1,26 @@
+{
+  "name": "nodeExpressMongoYouTubeSerie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "mytest": "desenvolvedor Elvis Huges",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^4.7.0",
+    "node-restful": "^0.2.5",
+    "pm2": "^2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  }
+}
